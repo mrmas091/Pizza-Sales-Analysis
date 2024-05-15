@@ -39,7 +39,7 @@ for creating a new column following the DAX expression was written;
         FORMAT('Dim_Date'[Date],"ddd")
         
         Day_No = WEEKDAY('Dim_Date'[Date])
-(![month details](https://github.com/mrmas091/Pizza-Sales-Analysis/assets/133782289/630e7c69-dde3-4a51-aa5b-b23b2f725194))
+![month details](https://github.com/mrmas091/Pizza-Sales-Analysis/assets/133782289/630e7c69-dde3-4a51-aa5b-b23b2f725194)
 - Step 7: New measures were created to find Total revenue, Average order value, Total pizzas sold, Total orders, Average pizza per order
 
 Following Dax expressions were written to create the above measures
