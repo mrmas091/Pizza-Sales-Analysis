@@ -77,7 +77,8 @@ Following Dax expressions were written to create the above measures
  - Step 20: The report was then published to Power BI Service.
  
  
-![Publish_Message]((https://github.com/mrmas091/Pizza-Sales-Analysis/assets/133782289/9184762d-e356-4f1e-9a64-6c933a318b96))
+![upload to power bi](https://github.com/mrmas091/Pizza-Sales-Analysis/assets/133782289/a688e2db-340b-4afc-8ea4-30c186b79afc)
+
 
 # Snapshot of Dashboard (Power BI Service)
 
